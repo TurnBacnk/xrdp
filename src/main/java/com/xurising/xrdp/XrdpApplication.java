@@ -1,4 +1,4 @@
-package com.xursing.xrdp;
+package com.xurising.xrdp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

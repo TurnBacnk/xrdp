@@ -1,4 +1,4 @@
-package com.xursing.xrdp;
+package com.xurising.xrdp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
